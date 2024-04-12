@@ -1,0 +1,18 @@
+.banner{
+  color:floralwhite;
+  padding:150px 0px;
+  background-image: linear-gradient(-225deg,rgba(0,0,0,0.8), rgba(0,0,0,0.1) 50%), url('https://borsenforalla.se/wp-content/uploads/2024/02/DALL%C2%B7E-2024-02-16-09.01.57-A-conceptual-image-representing-NIBE-a-global-leader-in-sustainable-energy-solutions-focusing-on-the-production-of-heat-pumps-water-heaters-and-ot.webp'); 
+  background-size: cover;
+
+}
+
+.banner h1{
+  font-size: 50px;
+}
+
+.banner h2{
+  font-size: 30px;
+  font-weight: lighter;
+  opacity:0.8;
+  margin-bottom:60px;
+}
